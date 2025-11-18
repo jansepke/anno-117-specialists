@@ -17,7 +17,8 @@ export const App: React.FC = () => {
       <button onClick={() => i18n.changeLanguage("de")}>de</button>
       {items.map((item) => (
         <div key={item.id}>
-          {item.name} ({item.rarity}) on {assetpools.find((pool) => pool.id === item.target)?.name}
+          {item.name} ({item.rarity}): {item.effect.map((e) => `${e.name}: ${e.value}`).join(", ")} on{" "}
+          {assetpools.find((pool) => pool.id === item.target)?.name}
         </div>
       ))}
     </>

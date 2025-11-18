@@ -1,23 +1,54 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { promises as fs } from "fs";
 import { languages, type Language } from "../src/anno-config.ts";
-import { type AnnoAssetPool, type AnnoItem } from "../src/types.ts";
+import { type AnnoAssetPool, type AnnoItem, type Effect } from "../src/types.ts";
 import { toArray } from "./utils.ts";
 
-function toAnnoItem(translations: Record<string, string>, asset: any): AnnoItem | undefined {
-  try {
-    return {
-      id: asset.Values.Standard.GUID,
-      name: translations[asset.Values.Text.OasisId],
-      icon: asset.Values.Standard.IconFilename,
-      rarity: asset.Values.Item.Rarity,
-      target: asset.Values.Effect.Targets?.Item?.GUID,
+const toAnnoItem =
+  (buildingbuff: any) =>
+  (translations: Record<string, string>, asset: any): AnnoItem | undefined => {
+    const getEffect = (effectId: string) => {
+      const effects: Effect[] = [];
+      const buff = buildingbuff.find((bb: any) => bb.Values.Standard.GUID === effectId);
+      if (!buff) {
+        return effects;
+      }
+
+      const values = buff.Values;
+
+      if (values.MaintenanceUpgrade?.MaintenanceFactorUpgrade?.Value) {
+        const postfix = values.MaintenanceUpgrade.MaintenanceFactorUpgrade.Percental ? "%" : "";
+        effects.push({
+          name: "MaintenanceFactorUpgrade",
+          value: `${values.MaintenanceUpgrade.MaintenanceFactorUpgrade.Value}${postfix}`,
+        });
+      }
+
+      if (values.MaintenanceUpgrade?.WorkforceMaintenanceFactorUpgrade?.Value) {
+        const postfix = values.MaintenanceUpgrade.WorkforceMaintenanceFactorUpgrade.Percental ? "%" : "";
+        effects.push({
+          name: "WorkforceMaintenanceFactorUpgrade",
+          value: `${values.MaintenanceUpgrade.WorkforceMaintenanceFactorUpgrade.Value}${postfix}`,
+        });
+      }
+
+      return effects;
     };
-  } catch (error) {
-    console.error("error converting item", asset, error);
-    return undefined;
-  }
-}
+
+    try {
+      return {
+        id: asset.Values.Standard.GUID,
+        name: translations[asset.Values.Text.OasisId],
+        icon: asset.Values.Standard.IconFilename,
+        rarity: asset.Values.Item.Rarity,
+        target: asset.Values.Effect.Targets?.Item?.GUID,
+        effect: getEffect(asset.Values.Effect.Buffs.Item.GUID),
+      };
+    } catch (error) {
+      console.error("error converting item", asset, error);
+      return undefined;
+    }
+  };
 
 function toAssetPool(translations: Record<string, string>, asset: any): AnnoAssetPool | undefined {
   if (!asset.Values.AssetPool) {
@@ -66,8 +97,10 @@ async function readFromCache(folder: string, file: string) {
   return await fileCache[fileName];
 }
 
+const buildingbuff = await readFromCache("assets", "buildingbuff");
+
 async function generateDBForLanguage(language: Language) {
-  await convertData(language, "assets", "item", toAnnoItem);
+  await convertData(language, "assets", "item", toAnnoItem(buildingbuff));
   await convertData(language, "assets", "assetpoolnamed", toAssetPool);
 }
 
