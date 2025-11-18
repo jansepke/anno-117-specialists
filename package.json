@@ -8,8 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "xml-to-json": "NODE_OPTIONS=--max_old_space_size=4096 node ./src/data/xml-to-json.ts",
-    "fill-db": "node ./src/data/fill-db.ts"
+    "xml-to-json": "NODE_OPTIONS=--max_old_space_size=4096 node ./scripts/xml-to-json.ts",
+    "fill-db": "node ./scripts/fill-db.ts"
   },
   "prettier": {
     "printWidth": 120

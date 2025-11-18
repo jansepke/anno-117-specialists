@@ -13,13 +13,8 @@ const assetParser = new XMLParser({
   },
 });
 
-main();
-
-async function main() {
-  await loadAssets();
-}
-
 const assetsByType: Record<string, any> = {};
+
 async function loadAssets() {
   console.log("Loading Assets...");
 
@@ -33,12 +28,7 @@ async function loadAssets() {
   }
 }
 
-function toArray<T>(value: T | T[]): T[] {
-  if (!Array.isArray(value)) {
-    return [value];
-  }
-  return value;
-}
+const toArray = <T>(value: T | T[]): T[] => (Array.isArray(value) ? value : [value]);
 
 type Group = {
   Assets: {
@@ -65,11 +55,9 @@ function processGroups(groups: Group | Group[]) {
 }
 
 function processAssets(assets: any) {
-  if (!Array.isArray(assets)) {
-    assets = [assets];
-  }
+  const assetsArray = toArray(assets);
 
-  for (const asset of Array.from<any>(assets)) {
+  for (const asset of Array.from<any>(assetsArray)) {
     if (!asset.Template) {
       continue;
     }
@@ -101,3 +89,5 @@ async function saveToCache(folder: string, file: string, data: unknown) {
 
   await fs.writeFile(fileName, JSON.stringify(data, null, 2));
 }
+
+await loadAssets();

@@ -2,10 +2,6 @@
 import { promises as fs } from "fs";
 import { type AnnoItem } from "../src/AnnoItem.ts";
 
-async function main() {
-  await generateDBForLanguage();
-}
-
 async function generateDBForLanguage() {
   const data = await getData(["item"]);
 
@@ -43,4 +39,4 @@ async function readFromCache(folder: string, file: string) {
   return await fileCache[fileName];
 }
 
-main();
+await generateDBForLanguage();
