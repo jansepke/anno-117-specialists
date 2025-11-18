@@ -1,9 +1,9 @@
 import type React from "react";
-import itemsEN from "./db/en/item.json" with { type: "json" };
-import assetpoolsEN from "./db/en/assetpoolnamed.json" with { type: "json" };
-import itemsDE from "./db/de/item.json" with { type: "json" };
-import assetpoolsDE from "./db/de/assetpoolnamed.json" with { type: "json" };
 import { useTranslation } from "react-i18next";
+import assetpoolsDE from "./db/de/assetpoolnamed.json" with { type: "json" };
+import itemsDE from "./db/de/item.json" with { type: "json" };
+import assetpoolsEN from "./db/en/assetpoolnamed.json" with { type: "json" };
+import itemsEN from "./db/en/item.json" with { type: "json" };
 
 export const App: React.FC = () => {
   const { i18n } = useTranslation();

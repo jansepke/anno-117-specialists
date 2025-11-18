@@ -1,8 +1,8 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { promises as fs } from "fs";
+import { languages, type Language } from "../src/anno-config.ts";
 import { type AnnoAssetPool, type AnnoItem } from "../src/types.ts";
 import { toArray } from "./utils.ts";
-import { languages, type Language } from "../src/anno-config.ts";
 
 function toAnnoItem(translations: Record<string, string>, asset: any): AnnoItem | undefined {
   try {

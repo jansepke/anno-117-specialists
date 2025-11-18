@@ -1,8 +1,8 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { XMLParser } from "fast-xml-parser";
 import { promises as fs } from "fs";
-import { toArray } from "./utils.ts";
 import { languages } from "../src/anno-config.ts";
+import { toArray } from "./utils.ts";
 
 const assetPath = "AssetList.Groups.Group";
 const assetParser = new XMLParser({
