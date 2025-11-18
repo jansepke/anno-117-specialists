@@ -3,6 +3,8 @@ export const languages = [
   { key: "en", fileName: "english" },
 ];
 
+export type Language = (typeof languages)[0];
+
 export const rarities = [
   { key: "common", labelId: 118002, color: "#FFFFFE" },
   { key: "uncommon", labelId: 118003, color: "#659E2C" },

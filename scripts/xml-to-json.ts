@@ -1,6 +1,8 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { XMLParser } from "fast-xml-parser";
 import { promises as fs } from "fs";
+import { toArray } from "./utils.ts";
+import { languages } from "../src/anno-config.ts";
 
 const assetPath = "AssetList.Groups.Group";
 const assetParser = new XMLParser({
@@ -12,6 +14,8 @@ const assetParser = new XMLParser({
     return false;
   },
 });
+
+const languageParser = new XMLParser();
 
 const assetsByType: Record<string, any> = {};
 
@@ -28,7 +32,23 @@ async function loadAssets() {
   }
 }
 
-const toArray = <T>(value: T | T[]): T[] => (Array.isArray(value) ? value : [value]);
+async function loadTranslations(language: string) {
+  console.log(`Loading ${language} Translations...`);
+
+  const fileName = `texts_${language}`;
+
+  const json = await parseXMLDataFile(fileName, languageParser);
+  const translations: Record<string, string> = {};
+  for (const item of json.TextExport.Texts.Text) {
+    translations[item.LineId] = item.Text.replace
+      ? item.Text.replace(/\[.*\]/g, "")
+          .replace(/\s\s/g, " ")
+          .replace(": .", "")
+      : item.Text;
+  }
+
+  await saveToCache("texts", fileName, translations);
+}
 
 type Group = {
   Assets: {
@@ -91,3 +111,4 @@ async function saveToCache(folder: string, file: string, data: unknown) {
 }
 
 await loadAssets();
+await Promise.all(languages.map((l) => loadTranslations(l.fileName)));

@@ -1,1584 +1,1833 @@
 [
   {
     "id": 71438,
-    "name": "Specialist Tutorial Finance",
+    "name": "Gaius Julius Lupus, Vermögensfachmann",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_tutorial_002_gaius_julius.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31659
   },
   {
     "id": 71441,
-    "name": "Specialist Tutorial Economy",
+    "name": "Brutus Julius Lupus, Pollux des Staates",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_tutorial_001_brutus_julius.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 42057,
-    "name": "Specialist Campaign Elephant",
+    "name": "Abdfil, Elefantenwache",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_campaign_elephant.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 44431,
-    "name": "Specialist Campaign Elephant Handler",
+    "name": "Elefantenbändiger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_002_elephant_handler.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 42602
   },
   {
     "id": 94567,
-    "name": "Specialist Campaign Musician Aodhan",
+    "name": "Aodhan, Meisterbarde der Scáthach",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_004_aodhan.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 125560,
-    "name": "Specialist Campaign TaxFraud",
+    "name": "Abuccus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_narrative_004_abbacus.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 71277
   },
   {
     "id": 95403,
-    "name": "Specialist Quest Valeria",
+    "name": "Servia Bellia, Lilie der Küste",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_035.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 95420
   },
   {
     "id": 96821,
-    "name": "Specialist Colosseum Quintus",
+    "name": "Publius Quintus, Amphipraetorianer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_87.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 43102
   },
   {
     "id": 96819,
-    "name": "Specialist Colosseum Volunteer",
+    "name": "Tugendhafter Freiwilliger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_88.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50613
   },
   {
     "id": 96817,
-    "name": "Specialist Colosseum Cook Apicius",
+    "name": "Apion Mochthos Apicius, mit Apeiron-Appetit",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_69.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50610
   },
   {
     "id": 88062,
-    "name": "Specialist WL SPQL W 009 Barley Farmer",
+    "name": "Gerstenrüttler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_001_barley_shaker.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 2799
   },
   {
     "id": 93989,
-    "name": "Specialist WL SPQL W 017 Voadas Female Bard",
+    "name": "Aisling, Ollamh der Schatten",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_001_bard.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 90573,
-    "name": "Specialist WL SPQL 056 Nathanael",
+    "name": "Natanhael Sithar, der Sternentaucher",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_003_shipwreck_diver.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 109532,
-    "name": "Specialist HL SPQL W 007 Suitor",
+    "name": "Treuer Bruder von Herakles",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_narrative_003_brother_of_heracles.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 82419,
-    "name": "Specialist HL SPQL 011 Cabin Cleanser",
+    "name": "Kabinenreiniger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_003_cabin_cleaner.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 71278
   },
   {
     "id": 82777,
-    "name": "Specialist HL SPQL 028 Mad Cook",
+    "name": "Verrückter Koch, Liebling von Mogon",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_narrative_002_mad_cook.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 106846,
-    "name": "Specialist Wish Dog",
+    "name": "Fideus, treuer Hund",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_specialist_dog_01.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50293
   },
   {
     "id": 64944,
-    "name": "Specialist Balance C Money",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_008.png"
+    "name": "Schreibkraft",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_008.png",
+    "target": 31046
   },
   {
     "id": 64949,
-    "name": "Specialist Balance C Belief",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_004.png"
+    "name": "Prediger",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_004.png",
+    "target": 31046
   },
   {
     "id": 64950,
-    "name": "Specialist Balance C Knowledge",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_003.png"
+    "name": "Schlaufuchs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_003.png",
+    "target": 31046
   },
   {
     "id": 64951,
-    "name": "Specialist Balance C Prestige",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_001.png"
+    "name": "Optimatin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_001.png",
+    "target": 31046
   },
   {
     "id": 64952,
-    "name": "Specialist Balance C FireSafety",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_005.png"
+    "name": "Löscherin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_005.png",
+    "target": 31046
   },
   {
     "id": 64953,
-    "name": "Specialist Balance C Health",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_005.png"
+    "name": "Ärztin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_005.png",
+    "target": 31046
   },
   {
     "id": 64954,
-    "name": "Specialist Balance C Happiness",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_003.png"
+    "name": "Stückeschreiberling",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_003.png",
+    "target": 31046
   },
   {
     "id": 140338,
-    "name": "Specialist Balance R Money",
+    "name": "Oberflächlicher Bursarius",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_90.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 140344,
-    "name": "Specialist Balance R Belief",
+    "name": "Aufrührerische Flamincia",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_036.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 140355,
-    "name": "Specialist Balance R Knowledge",
+    "name": "Letztes-Wort-Wattiss",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_047.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 140388,
-    "name": "Specialist Balance R Prestige",
+    "name": "Aufsteigender Indossant",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_07.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 140403,
-    "name": "Specialist Balance R FireSafety",
+    "name": "Angesengter Hilfsarbeiter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_91.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 140405,
-    "name": "Specialist Balance R Health",
+    "name": "Pharmakognosie-Kennerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_037.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 140407,
-    "name": "Specialist Balance R Happiness",
+    "name": "Eiserner Ironiker",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_56.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 64945,
-    "name": "Specialist Balance E Money",
+    "name": "Aulus Pecunius Magnus, patrizischer Profiteur",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_002.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 64961,
-    "name": "Specialist Balance E Belief",
+    "name": "Agrippina Pontificus, göttliche Eiferin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_009.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 64962,
-    "name": "Specialist Balance E Knowledge",
+    "name": "Litugenus, Salbei-Kultivator",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_005.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 64963,
-    "name": "Specialist Balance E Prestige",
+    "name": "Emer, glühende Verfechterin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_001.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 64964,
-    "name": "Specialist Balance E FireSafety",
+    "name": "Senuacus, dösender Löscher",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_004.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 64965,
-    "name": "Specialist Balance E Health",
+    "name": "Octriuil, begabte Heilerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_002.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 64966,
-    "name": "Specialist Balance E Happiness",
+    "name": "Iain Thespis, Erheller der Tage",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_001.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51316,
-    "name": "Specialist Maintenance C Gatherers",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_004.png"
+    "name": "Ährenleserin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_004.png",
+    "target": 50602
   },
   {
     "id": 51328,
-    "name": "Specialist Maintenance C Coopers",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_028.png"
+    "name": "Fassbinderin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_028.png",
+    "target": 50606
   },
   {
     "id": 51330,
-    "name": "Specialist Maintenance C Extractors",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_008.png"
+    "name": "Essenzialistin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_008.png",
+    "target": 50607
   },
   {
     "id": 51334,
-    "name": "Specialist Maintenance C Smelters",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_007.png"
+    "name": "Amalgamist",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_007.png",
+    "target": 50609
   },
   {
     "id": 51338,
-    "name": "Specialist Maintenance C Dressers",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_001.png"
+    "name": "Vermesserin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_001.png",
+    "target": 50611
   },
   {
     "id": 51344,
-    "name": "Specialist Maintenance C Material Producers",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_002.png"
+    "name": "Konstruktivistin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_002.png",
+    "target": 50613
   },
   {
     "id": 51292,
-    "name": "Specialist Maintenance R Hunters &amp; Fisheries",
+    "name": "Venator der Artemis",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_002.png",
     "rarity": "Rare"
   },
   {
     "id": 51324,
-    "name": "Specialist Maintenance R Pastures",
+    "name": "Nomadischer Hirte",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_001.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50224
   },
   {
     "id": 51336,
-    "name": "Specialist Maintenance R Cookhouses",
+    "name": "Hestische Kulinarikerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_013.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50610
   },
   {
     "id": 51346,
-    "name": "Specialist Maintenance R Arms Producers",
+    "name": "Hephaistos-Polyschmied",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_001.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50614
   },
   {
     "id": 51321,
-    "name": "Specialist Maintenance E Farms",
+    "name": "Tullus Caecilius Cornutus, Arvalbruder des Insitors",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_033.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 42602
   },
   {
     "id": 51326,
-    "name": "Specialist Maintenance E Mines &amp; Pits",
+    "name": "Rhea Proserpina, Dis Mater",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_009.png",
     "rarity": "Epic"
   },
   {
     "id": 51332,
-    "name": "Specialist Maintenance E Workshops",
+    "name": "Exuperata, beliebte Tüftlerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_007.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50612
   },
   {
     "id": 51340,
-    "name": "Specialist Maintenance E Plantations",
+    "name": "Tirechán Ua Aergol, unermüdlicher Pflüger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_002.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 51905
   },
   {
     "id": 51342,
-    "name": "Specialist Maintenance E Artisans",
+    "name": "Palaephaesta, geschickte Demiurgus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_006.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50604
   },
   {
     "id": 51551,
-    "name": "Specialist Area R Pigs",
+    "name": "Schweinemistschauflerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_other_nb_03.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50229
   },
   {
     "id": 51555,
-    "name": "Specialist Area R Leather",
+    "name": "Kibisisist",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_055.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 2994
   },
   {
     "id": 51559,
-    "name": "Specialist Area E Gold",
+    "name": "Aulus Rannius, glänzendes Collegium-Mitglied",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_89.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31755
   },
   {
     "id": 51563,
-    "name": "Specialist Area R Amphorae",
+    "name": "Panoplianische Töpferin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_029.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3199
   },
   {
     "id": 51567,
-    "name": "Specialist Area R LimestoneBlocks",
+    "name": "Kalkulierende Verwerterin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_029.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 71988
   },
   {
     "id": 51571,
-    "name": "Specialist Area R Silver",
+    "name": "Schichtleiter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_33.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5472
   },
   {
     "id": 51575,
-    "name": "Specialist Area E Sheep",
+    "name": "Madaidhin, Wollkämmer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_018.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50293
   },
   {
     "id": 51579,
-    "name": "Specialist Area C ReedShoes",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_32.png"
+    "name": "Schilfschuster",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_32.png",
+    "target": 5609
   },
   {
     "id": 51378,
-    "name": "Specialist Area R Lavender",
+    "name": "Außergewöhnliche Kräuterkundlerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_010.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 2698
   },
   {
     "id": 51382,
-    "name": "Specialist Area C Porridge",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_027.png"
+    "name": "Humiliore",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_027.png",
+    "target": 3171
   },
   {
     "id": 51390,
-    "name": "Specialist Area E Togas",
+    "name": "Phlebas, schöner Phönizier",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_025.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3191
   },
   {
     "id": 51394,
-    "name": "Specialist Area E Marble",
+    "name": "Mico Annius, Ausgräber der Leitsterne",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_74.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3138
   },
   {
     "id": 51398,
-    "name": "Specialist Area C Eels",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_040.png"
+    "name": "Aaljägerin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_040.png",
+    "target": 5299
   },
   {
     "id": 51402,
-    "name": "Specialist Area R SilverOre",
+    "name": "Silberne Hand",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_24.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5980
   },
   {
     "id": 51406,
-    "name": "Specialist Area R Sausages",
+    "name": "Erstaunliche Stopferin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_032.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5959
   },
   {
     "id": 51410,
-    "name": "Specialist Area E Wigs",
+    "name": "Ailbhe Giunnae, Zaunschnitt-Tonsuristin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_010_ailbhe_giunnae.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31769
   },
   {
     "id": 51414,
-    "name": "Specialist Area R Aurochs",
+    "name": "Thrinakischer Herder",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_26.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5847
   },
   {
     "id": 51418,
-    "name": "Specialist Area E GraniteBlocks",
+    "name": "Philof, Baityliker",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_015.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 5295
   },
   {
     "id": 51422,
-    "name": "Specialist Area R Bronze",
+    "name": "Eifriger Polierer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_058.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5470
   },
   {
     "id": 51426,
-    "name": "Specialist Area E RoastBeef",
+    "name": "Fiachra Dóiteán, Kulinarik-Immolator",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_37.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31767
   },
   {
     "id": 51430,
-    "name": "Specialist Area E PeltHats",
+    "name": "Machaire Mac Marta, gar nicht verrückter Hutmacher",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_39.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31770
   },
   {
     "id": 51434,
-    "name": "Specialist Area E Granite",
+    "name": "Philon, Baitylologe",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_60.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 41811
   },
   {
     "id": 51519,
-    "name": "Specialist Area R IronOre",
+    "name": "Ironische Befragerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_036.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50237
   },
   {
     "id": 51523,
-    "name": "Specialist Area R Strings",
+    "name": "Tolupist",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_030.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5481
   },
   {
     "id": 51527,
-    "name": "Specialist Area E OystersCaviar",
+    "name": "Patanjali, Aroma-Lexikologe",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_018_patanjali.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3186
   },
   {
     "id": 51531,
-    "name": "Specialist Area R WaxTablets",
+    "name": "Tabula-Tutorin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_035.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3201
   },
   {
     "id": 51535,
-    "name": "Specialist Area E FineGlass",
+    "name": "Heracalius, Weiser des Panta Rhei",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_021.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3202
   },
   {
     "id": 51539,
-    "name": "Specialist Area R TinOre",
+    "name": "Kassiteriden-Gießerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_027.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5291
   },
   {
     "id": 51543,
-    "name": "Specialist Area R CopperOre",
+    "name": "Chalkolikerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_026.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5290
   },
   {
     "id": 51547,
-    "name": "Specialist Area E Lye",
+    "name": "Alberon, notorischer Lügner",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_019.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31772
   },
   {
     "id": 51587,
-    "name": "Specialist Area E MarbleBlocks",
+    "name": "Galerius Natta, oberster Prospektor",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_046.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 2954
   },
   {
     "id": 51591,
-    "name": "Specialist Area E Minerals",
+    "name": "Lepidius Exoratus, Polylithologe",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_045.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 2920
   },
   {
     "id": 51595,
-    "name": "Specialist Area E TyrianPurple",
+    "name": "Aprilis, Schneckenaufrührerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_024.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 2999
   },
   {
     "id": 51599,
-    "name": "Specialist Area R Glass",
+    "name": "Glaspoet",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_016.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3074
   },
   {
     "id": 51603,
-    "name": "Specialist Area R Pigments",
+    "name": "Hervorragende Pulverisiererin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_021.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3082
   },
   {
     "id": 51607,
-    "name": "Specialist Area E Necklaces",
+    "name": "Camillus Galerus, Kunsthandwerk-Mäzenin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_037.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3192
   },
   {
     "id": 51611,
-    "name": "Specialist Area E Loungers",
+    "name": "Caelus Isatis, aus der Nachmittagspause",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_02.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3198
   },
   {
     "id": 51615,
-    "name": "Specialist Area E Armor",
+    "name": "Enna Ardsolas, stolzes Bollwerk",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_63.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 13808
   },
   {
     "id": 51619,
-    "name": "Specialist Area R Brooches",
+    "name": "Dragoneske Dekanin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_046.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5605
   },
   {
     "id": 51623,
-    "name": "Specialist Area E Mirrors",
+    "name": "Mimesius Perrenis, vorbildliche Erscheinung",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_03.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 5615
   },
   {
     "id": 51627,
-    "name": "Specialist Area R Torcs",
+    "name": "Knurriger Kordeler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_31.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5606
   },
   {
     "id": 51631,
-    "name": "Specialist Area E ClanShields",
+    "name": "Moccix. Wappenschild-Heroldin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_82.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31773
   },
   {
     "id": 51386,
-    "name": "Specialist Area C Hats",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_038.png"
+    "name": "Libertine",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_038.png",
+    "target": 3188
   },
   {
     "id": 51442,
-    "name": "Specialist Area R InstitutionRiot",
+    "name": "Urbaner Auxila",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_057.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 38560
   },
   {
     "id": 51446,
-    "name": "Specialist Area C Tunics",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_054.png"
+    "name": "Centonarion",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_054.png",
+    "target": 50232
   },
   {
     "id": 51450,
-    "name": "Specialist Area R Weapons",
+    "name": "Unfehlbare Schwertschmiedin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_041.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50239
   },
   {
     "id": 51454,
-    "name": "Specialist Area R Garum",
+    "name": "Necroeudaimon",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_049.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3185
   },
   {
     "id": 51458,
-    "name": "Specialist Area E Lyres",
+    "name": "O‘Buíochas, Meister der Entspannung",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_21.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 4832
   },
   {
     "id": 51462,
-    "name": "Specialist Area E Mosaics",
+    "name": "Tillus Memmianus, facettenreicher Tesselator",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_059.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3203
   },
   {
     "id": 51470,
-    "name": "Specialist Area E BirdTongues",
+    "name": "Vogelzungen nach Art des Hauses",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_034.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 5604
   },
   {
     "id": 51474,
-    "name": "Specialist Area E Chariots",
+    "name": "Alys, Wagenlenkerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_037.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 5616
   },
   {
     "id": 51466,
-    "name": "Specialist Area R InstitutionIllness",
+    "name": "Materialistischer Medicus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_030.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 38561
   },
   {
     "id": 51478,
-    "name": "Specialist Area E Horses",
+    "name": "Shapur von Chalcis, ein Eques Eponiens",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_052.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50230
   },
   {
     "id": 51482,
-    "name": "Specialist Area E Wine",
+    "name": "Gallus Vinicius, der Leichtfüßige",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_40.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50234
   },
   {
     "id": 51486,
-    "name": "Specialist Area R Fat",
+    "name": "Hitzkopf",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_008.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50238
   },
   {
     "id": 51490,
-    "name": "Specialist Area R Soap",
+    "name": "Säubernder Duftspender",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_06.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3189
   },
   {
     "id": 51494,
-    "name": "Specialist Area R Sandals",
+    "name": "Sandalensicherer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_029.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3190
   },
   {
     "id": 51498,
-    "name": "Specialist Area R OliveOil",
+    "name": "Amurca-Apothekerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_016.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 4831
   },
   {
     "id": 51502,
-    "name": "Specialist Area R Herbs",
+    "name": "Agronomische Belüfterin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_027.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31764
   },
   {
     "id": 51506,
-    "name": "Specialist Area C Cockles",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_036.png"
+    "name": "Felshüpferin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_036.png",
+    "target": 5278
   },
   {
     "id": 51510,
-    "name": "Specialist Area R Cheese",
+    "name": "Quarkbrecherin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_035.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 6586
   },
   {
     "id": 51514,
-    "name": "Specialist Area R Trousers",
+    "name": "Vertrauenswürdiger Hosenfertiger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_38.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5608
   },
   {
     "id": 51362,
-    "name": "Specialist Area R InstitutionFire",
+    "name": "Wagemutiger Vigilo",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_83.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 38559
   },
   {
     "id": 51366,
-    "name": "Specialist Area R Tiles",
+    "name": "Leoninische Keramikerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_017.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50231
   },
   {
     "id": 51635,
-    "name": "Specialist Area R Bread",
+    "name": "Wachsamer Bäcker",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_other_nb_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50235
   },
   {
     "id": 51639,
-    "name": "Specialist Area R Charcoal",
+    "name": "Schornsteinfeger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_34.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50236
   },
   {
     "id": 51370,
-    "name": "Specialist Area R Beer",
+    "name": "Hüterin der Flamme",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_011.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5570
   },
   {
     "id": 51374,
-    "name": "Specialist Area E Cloak",
+    "name": "Tanisius, gerissener Schrottplatzsucher",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_54.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 5614
   },
   {
     "id": 43677,
-    "name": "Specialist AreaPools E Fisheries",
+    "name": "Uiscarix, hygeianischer Fischhändler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_009_uiscarix.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50601
   },
   {
     "id": 44084,
-    "name": "Specialist AreaPools E Smelters",
+    "name": "Obairrix, Vollmetallschmied",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_006_obairrix.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50609
   },
   {
     "id": 42047,
-    "name": "Specialist AreaPools E Dressers",
+    "name": "Brian na gCapallín, sarkastischer Satiriker",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_005.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50611
   },
   {
     "id": 42043,
-    "name": "Specialist AreaPools E Cookhouses",
+    "name": "Magnus Bantius der Deipnosoph",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_75.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50610
   },
   {
     "id": 51826,
-    "name": "Specialist NeedReward C Sardines",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_004.png"
+    "name": "Entgräterin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_004.png",
+    "target": 31046
   },
   {
     "id": 51829,
-    "name": "Specialist NeedReward C Eels",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_48.png"
+    "name": "Filetierer",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_48.png",
+    "target": 31046
   },
   {
     "id": 51831,
-    "name": "Specialist NeedReward C Cockles",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_019.png"
+    "name": "Schalenknackerin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_019.png",
+    "target": 31046
   },
   {
     "id": 51851,
-    "name": "Specialist NeedReward C Hats",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_053.png"
+    "name": "Sartorist",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_053.png",
+    "target": 31046
   },
   {
     "id": 51853,
-    "name": "Specialist NeedReward C Tunics",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_029.png"
+    "name": "Modemacher",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_029.png",
+    "target": 31046
   },
   {
     "id": 51855,
-    "name": "Specialist NeedReward C ReedShoes",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_05.png"
+    "name": "Schilfschuhmacherin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_05.png",
+    "target": 31046
   },
   {
     "id": 51833,
-    "name": "Specialist NeedReward R Garum",
+    "name": "Hygeischer Garumedicus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_031.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51835,
-    "name": "Specialist NeedReward R Bread",
+    "name": "Bäckerin Augcrusta",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_030.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51837,
-    "name": "Specialist NeedReward R Sausages",
+    "name": "S.P.Q.R.",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_42.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51839,
-    "name": "Specialist NeedReward R Beer",
+    "name": "Laszive Einschenkerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_043.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51857,
-    "name": "Specialist NeedReward R Sandals",
+    "name": "Festina-Schnürerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_020.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51859,
-    "name": "Specialist NeedReward R Soap",
+    "name": "Schaumiger Seifenspezialist",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_039.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51861,
-    "name": "Specialist NeedReward R Trousers",
+    "name": "Beinkleid-Unterdrückerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_040.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51863,
-    "name": "Specialist NeedReward R Torcs",
+    "name": "Traditioneller Torquatus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_43.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51865,
-    "name": "Specialist NeedReward R Brooches",
+    "name": "Broschen-Boutique-Betreiberin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_039.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51877,
-    "name": "Specialist NeedReward R Amphorae",
+    "name": "Freibeuterische Gefäßexpertin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_025.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51879,
-    "name": "Specialist NeedReward R OliveOil",
+    "name": "Vespertinischer Salbender",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_other_nb_02.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31046
   },
   {
     "id": 51841,
-    "name": "Specialist NeedReward E Cheese",
+    "name": "Knekkfjall aus der knackigen Tundra",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_019_knekkfjall.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51843,
-    "name": "Specialist NeedReward E Wine",
+    "name": "Uesuca aus dem Terrorterroir",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_031.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51845,
-    "name": "Specialist NeedReward E Beef",
+    "name": "Eingebildeter phänomenaler Saucier",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_051.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51847,
-    "name": "Specialist NeedReward E Tongues",
+    "name": "Calchas von Kolchis, aviärer Auspex",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_028.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51849,
-    "name": "Specialist NeedReward E Oysters",
+    "name": "Rusa von Knossos, benthischer Ekklesiast",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_034.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51867,
-    "name": "Specialist NeedReward E Togas",
+    "name": "Marcus Coriolan, donnernder Redner",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_66.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51869,
-    "name": "Specialist NeedReward E Wigs",
+    "name": "Harchebis, oberster Tonsurist",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_040.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51871,
-    "name": "Specialist NeedReward E PeltHats",
+    "name": "Ceannglan, Heiler der Hüte",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_06.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51873,
-    "name": "Specialist NeedReward E Cloaks",
+    "name": "Flavius Cerialis, Birrus-Enthusiast",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_67.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51875,
-    "name": "Specialist NeedReward E Necklaces",
+    "name": "Halsschmuck-Pashedu",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_026.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51881,
-    "name": "Specialist NeedReward E WritingTablets",
+    "name": "Horatia Hemina, alliterative Litterateurin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_033.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51883,
-    "name": "Specialist NeedReward E FineGlass",
+    "name": "Appius Gagilius Ismarus, Glas-Liebhaber",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_037.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51885,
-    "name": "Specialist NeedReward E Mirrors",
+    "name": "Meresamun, reflektierter Intellekt",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_014.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51887,
-    "name": "Specialist NeedReward E Loungers",
+    "name": "Pompo Sittius Quadratus, Mitglied des Bisellariorianischen Collegiums",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_035.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51889,
-    "name": "Specialist NeedReward E Lyres",
+    "name": "Asteria von Delphi, apollonische Musagete",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_005.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51891,
-    "name": "Specialist NeedReward E Chariots",
+    "name": "Akhaz, der Spaltende",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_022.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51893,
-    "name": "Specialist NeedReward E ClanShields",
+    "name": "Luchta, Patenwache",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_047.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 42056,
-    "name": "Specialist NeedReward E Porridge",
+    "name": "Circaeus von Aeaea, Kykeon-Küchenmeisterin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_005_circaeus_of_aeaea.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 42055,
-    "name": "Specialist PublicReward E Tavern",
+    "name": "Sophokles von Athen, Agraphischer Dogmatiker",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_019.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 42045,
-    "name": "Specialist PublicReward E TownHall",
+    "name": "Owain o Ywen, Wache der Überlieferung",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_014.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 42044,
-    "name": "Specialist PublicReward E SportingGrounds",
+    "name": "Aéd Leamhán, Orakel der Weisen",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_026.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 51357,
-    "name": "Specialist PublicReward E AqueductCistern",
+    "name": "Sextus Fontinalis, Leiter der Brunnen",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_008.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 31046
   },
   {
     "id": 44075,
-    "name": "Specialist Productivity C SardineChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_016.png"
+    "name": "Netzangler",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_016.png",
+    "target": 50564
   },
   {
     "id": 44076,
-    "name": "Specialist Productivity C PorridgeChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_30.png"
+    "name": "Haferhacker",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_30.png",
+    "target": 50565
   },
   {
     "id": 44077,
-    "name": "Specialist Productivity C EelChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_03.png"
+    "name": "Schlammsucherin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_03.png",
+    "target": 50566
   },
   {
     "id": 44078,
-    "name": "Specialist Productivity C SailsChain",
+    "name": "Segler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_019.png"
   },
   {
     "id": 44079,
-    "name": "Specialist Productivity C RopesChain",
+    "name": "Seilzwirnerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_048.png"
   },
   {
     "id": 44080,
-    "name": "Specialist Productivity C BreadChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_47.png"
+    "name": "Teigwahrsager",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_47.png",
+    "target": 50569
   },
   {
     "id": 44083,
-    "name": "Specialist Productivity C TunicsChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_008.png"
+    "name": "Säumer",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_008.png",
+    "target": 50572
   },
   {
     "id": 44085,
-    "name": "Specialist Productivity C GarumChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_025.png"
+    "name": "Fischdozentin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_025.png",
+    "target": 50573
   },
   {
     "id": 44086,
-    "name": "Specialist Productivity C SandalsChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_024.png"
+    "name": "Weißgerberin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_024.png",
+    "target": 50574
   },
   {
     "id": 44115,
-    "name": "Specialist Productivity C WritingTabletsChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_017.png"
+    "name": "Mellarius",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_017.png",
+    "target": 50581
   },
   {
     "id": 44117,
-    "name": "Specialist Productivity C TorcsChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_23.png"
+    "name": "Obtorquist",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_23.png",
+    "target": 50583
   },
   {
     "id": 44139,
-    "name": "Specialist Productivity C AmphoraeChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_014.png"
+    "name": "Händlerin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_014.png",
+    "target": 50589
   },
   {
     "id": 44140,
-    "name": "Specialist Productivity C ReedShoesChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_012.png"
+    "name": "Flechterin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_012.png",
+    "target": 50622
   },
   {
     "id": 44141,
-    "name": "Specialist Productivity C OliveOilChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_021.png"
+    "name": "Kaltpresser",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_021.png",
+    "target": 50591
   },
   {
     "id": 44142,
-    "name": "Specialist Productivity C SoapChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_003.png"
+    "name": "Ätzende Siederin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_003.png",
+    "target": 50592
   },
   {
     "id": 44144,
-    "name": "Specialist Productivity C HatsChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_018.png"
+    "name": "Hutmacher",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_018.png",
+    "target": 50594
   },
   {
     "id": 44145,
-    "name": "Specialist Productivity C CocklesChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_012.png"
+    "name": "Muschelsammlerin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_012.png",
+    "target": 50595
   },
   {
     "id": 44146,
-    "name": "Specialist Productivity C BeerChain",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_012.png"
+    "name": "Fleißiger Spross",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_012.png",
+    "target": 50596
   },
   {
     "id": 44081,
-    "name": "Specialist Productivity R BeefChain",
+    "name": "Präfekt von Ochsen",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_039.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50570
   },
   {
     "id": 44082,
-    "name": "Specialist Productivity R CheeseChain",
+    "name": "Meisterin der Molke",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_045.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50571
   },
   {
     "id": 44087,
-    "name": "Specialist Productivity R TrousersChain",
+    "name": "Der Bifurcator",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_038.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50575
   },
   {
     "id": 44088,
-    "name": "Specialist Productivity R ChariotsChain",
+    "name": "Achsmacherin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_019.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50576
   },
   {
     "id": 44112,
-    "name": "Specialist Productivity R WineChain",
+    "name": "Traubenstampferin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_030.png",
     "rarity": "Rare"
   },
   {
     "id": 44113,
-    "name": "Specialist Productivity R BroochesChain",
+    "name": "Saturnischer Schmelzer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_036.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50579
   },
   {
     "id": 44118,
-    "name": "Specialist Productivity R TogasChain",
+    "name": "Princeps von Porphyr",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_046.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50584
   },
   {
     "id": 44119,
-    "name": "Specialist Productivity R WigsChain",
+    "name": "Hervorragender Haarkünstler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_022.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50585
   },
   {
     "id": 44120,
-    "name": "Specialist Productivity R FineGlassChain",
+    "name": "Kunsthandwerklicher Schmelzprofi",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_010.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50586
   },
   {
     "id": 44121,
-    "name": "Specialist Productivity R ClanShieldsChain",
+    "name": "Pragmatische Aegis",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_014.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50587
   },
   {
     "id": 44143,
-    "name": "Specialist Productivity R OystersChain",
+    "name": "Student der Meere",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_013.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50593
   },
   {
     "id": 44148,
-    "name": "Specialist Productivity R PeltHatsChain",
+    "name": "Flotter Fallensteller",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_007.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50598
   },
   {
     "id": 50665,
-    "name": "Specialist Productivity R CloakChain",
+    "name": "Mantelprofi",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_015.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50631
   },
   {
     "id": 50289,
-    "name": "Specialist Productivity R WeaponsChain",
+    "name": "Lakonische Schwertschmiedin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_009.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50620
   },
   {
     "id": 50291,
-    "name": "Specialist Productivity R ArmorChain",
+    "name": "Lamellen-Rüstmeister",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_014.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 50621
   },
   {
     "id": 44089,
-    "name": "Specialist Productivity E NecklacesChain",
+    "name": "Der tiefschürfende Goldsucher",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_007_lapidarius_aureate.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50577
   },
   {
     "id": 44114,
-    "name": "Specialist Productivity E LyresChain",
+    "name": "Äolischer Tonangeber",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_70.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50580
   },
   {
     "id": 44147,
-    "name": "Specialist Productivity E SausagesChain",
+    "name": "Schweineflüsterer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_009.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50597
   },
   {
     "id": 44116,
-    "name": "Specialist Productivity E MirrorsChain",
+    "name": "Marix, die die Meerleute kennt",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_017_marix.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50582
   },
   {
     "id": 44122,
-    "name": "Specialist Productivity E TonguesChain",
+    "name": "Hosta Vulpius, Tilger der Töne",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_009.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50588
   },
   {
     "id": 44149,
-    "name": "Specialist Productivity E LoungersChain",
+    "name": "Maxima Cottius, Herstellerin von Prunkpolstern",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_021.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50599
   },
   {
     "id": 50287,
-    "name": "Specialist Productivity E HorseChain",
+    "name": "Xeno von Phillipopolis, Hipparchon",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_024.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50590
   },
   {
     "id": 54009,
-    "name": "Specialist Incident C Fire",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_62.png"
+    "name": "Vexillarius",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_62.png",
+    "target": 38559
   },
   {
     "id": 54015,
-    "name": "Specialist Incident C Illness",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_023.png"
+    "name": "Praktizierende Heilerin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_023.png",
+    "target": 38561
   },
   {
     "id": 54021,
-    "name": "Specialist Incident C Riot",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_009.png"
+    "name": "Wächter",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_009.png",
+    "target": 38560
   },
   {
     "id": 54011,
-    "name": "Specialist Incident R Fire",
+    "name": "Alarmsignalgeberin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_011.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 38559
   },
   {
     "id": 54017,
-    "name": "Specialist Incident R Illness",
+    "name": "Kluge Capsarius",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_016.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 38561
   },
   {
     "id": 54023,
-    "name": "Specialist Incident R Riot",
+    "name": "Siegreicher Schläger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_031.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 38560
   },
   {
     "id": 42052,
-    "name": "Specialist Incident E Fire",
+    "name": "Pyrrhos von Epirus, ekpyrotische architekturschaffende Person",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_02.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 38559
   },
   {
     "id": 80494,
-    "name": "Specialist Incident E Illness",
+    "name": "Cermaid Mac Ealadha, Dagdas Hüter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_003.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 38561
   },
   {
     "id": 42051,
-    "name": "Specialist Incident E Riot",
+    "name": "Urbicius Creticus, Graffitograph",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_006.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 38560
   },
   {
     "id": 54048,
-    "name": "Specialist Farming R Herbs",
+    "name": "Kräuterhüter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 31764
   },
   {
     "id": 54050,
-    "name": "Specialist Farming R Silver",
+    "name": "Silbersucher",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 5980
   },
   {
     "id": 54052,
-    "name": "Specialist Farming R Sandarac",
+    "name": "Geübter Baumkundler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 8579
   },
   {
     "id": 54054,
-    "name": "Specialist Farming R Minerals",
+    "name": "Zusätzliche Gutachterin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 2920
   },
   {
     "id": 54056,
-    "name": "Specialist Farming R Lavender",
+    "name": "Lavandulalistin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 2698
   },
   {
     "id": 54058,
-    "name": "Specialist Farming R DyePlants",
+    "name": "Flinke Färberin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 2800
   },
   {
     "id": 54060,
-    "name": "Specialist Farming R Barley",
+    "name": "Getreideernter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 2799
   },
   {
     "id": 92874,
-    "name": "Specialist Residence E Workforce R01",
+    "name": "Titus Faber, Meister der Aufgaben",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_047.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3087
   },
   {
     "id": 92876,
-    "name": "Specialist Residence R Workforce R02",
+    "name": "Plebejer Praepositus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_033.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3141
   },
   {
     "id": 92878,
-    "name": "Specialist Residence R Workforce R03",
+    "name": "Equites-Ausbilderin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_023.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 3142
   },
   {
     "id": 92880,
-    "name": "Specialist Residence E Workforce R04",
+    "name": "Herius Fraucus Cornelius, Patrizierpatriarch",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_01.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 3145
   },
   {
     "id": 92882,
-    "name": "Specialist Residence R Workforce RC02",
+    "name": "Munterer Markthändler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_20.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 6475
   },
   {
     "id": 92884,
-    "name": "Specialist Residence E Workforce RC03",
+    "name": "Belmaglo Atrius Leo, edler Ernenner",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_032.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 6514
   },
   {
     "id": 92886,
-    "name": "Specialist Residence E Workforce C01",
+    "name": "Uassoro, der Moorgeist",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_27.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 6414
   },
   {
     "id": 92888,
-    "name": "Specialist Residence R Workforce C02",
+    "name": "Tüchtiger Schmied",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_028.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 6471
   },
   {
     "id": 92890,
-    "name": "Specialist Residence E Workforce C03",
+    "name": "Aedela, Älteste der Ältesten",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_038.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 6472
   },
   {
     "id": 106731,
-    "name": "Specialist Recruitment C All",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_80.png"
+    "name": "Anwerber",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_80.png",
+    "target": 53358
   },
   {
     "id": 106736,
-    "name": "Specialist Recruitment R Barracks",
+    "name": "Fanfarenrufer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_52.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 62768
   },
   {
     "id": 106738,
-    "name": "Specialist Recruitment R Siege",
+    "name": "Geschickter Monteur",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_77.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 68361
   },
   {
     "id": 106740,
-    "name": "Specialist Recruitment R Stables",
+    "name": "Gerechte Ausbilderin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_023.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 82157
   },
   {
     "id": 106742,
-    "name": "Specialist Recruitment E All",
+    "name": "Hasdrubal, pädagogische Autorität",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_031.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 53358
   },
   {
     "id": 106631,
-    "name": "Specialist Workforce C Roman Farms",
+    "name": "Wiedervereiniger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_028.png"
   },
   {
     "id": 106634,
-    "name": "Specialist Workforce C Celtic Farms",
+    "name": "Renaturierer",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_29.png"
   },
   {
     "id": 106636,
-    "name": "Specialist Workforce C Roman Coast",
+    "name": "Umdenkerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_044.png"
   },
   {
     "id": 106638,
-    "name": "Specialist Workforce C Celtic Coast",
+    "name": "Irrfahrtnavigatorin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_04.png"
   },
   {
     "id": 106644,
-    "name": "Specialist Workforce R Roman Institutions",
+    "name": "Abweichfaktor",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_032.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 94612
   },
   {
     "id": 106646,
-    "name": "Specialist Workforce R Celtic Institutions",
+    "name": "Eiserner Verteiler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_46.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 94616
   },
   {
     "id": 106648,
-    "name": "Specialist Workforce R Roman Warehouses",
+    "name": "Kodextreuer Aufseher",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_73.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 106662
   },
   {
     "id": 106650,
-    "name": "Specialist Workforce R Celtic Warehouses",
+    "name": "Fortschrittliche Ladenbesitzerin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_041.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 106664
   },
   {
     "id": 106640,
-    "name": "Specialist Workforce E Roman Pastures",
+    "name": "Nero Vulius Fama, Viehhalterverwalter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_79.png",
     "rarity": "Epic"
   },
   {
     "id": 106642,
-    "name": "Specialist Workforce E Celtic Pastures",
+    "name": "Cairbre Uí Murchad, hübscher Hirte",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_49.png",
     "rarity": "Epic"
   },
   {
     "id": 106652,
-    "name": "Specialist Workforce E Roman Towers",
+    "name": "Primus Tremellius Valens, vom türmenden Elfenbein",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_040.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 106663
   },
   {
     "id": 106654,
-    "name": "Specialist Workforce E Celtic Towers",
+    "name": "Cranncriomhthann, eichener Neunzigjähriger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_45.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 106665
   },
   {
     "id": 106539,
-    "name": "Specialist Military C Towers",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_038.png"
+    "name": "Hochhalter",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_038.png",
+    "target": 29318
   },
   {
     "id": 106549,
-    "name": "Specialist Military C Warehouses",
+    "name": "Warenhüter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_51.png"
   },
   {
     "id": 106537,
-    "name": "Specialist Military R Towers Offense",
+    "name": "Akribischer Zieler",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_042.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 29318
   },
   {
     "id": 106541,
-    "name": "Specialist Military R Towers Defense",
+    "name": "Dreifach-Verteidiger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_035.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 29318
   },
   {
     "id": 106547,
-    "name": "Specialist Military R Gates Offense",
+    "name": "Rachsüchtige Villica",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_039.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 140478
   },
   {
     "id": 106545,
-    "name": "Specialist Military R Gates Defense",
+    "name": "Wachsamer Villicus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_84.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 140478
   },
   {
     "id": 106551,
-    "name": "Specialist Military R RepairCrane",
+    "name": "Standhafte Hafenwache",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_032.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 41582
   },
   {
     "id": 42592,
-    "name": "Specialist Military E Towers",
+    "name": "Fionnbharr, junger Wolf",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_032.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 29318
   },
   {
     "id": 51278,
-    "name": "Specialist Military E Gates",
+    "name": "Lygos Exakion, Architectus Eparchus",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_029.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 140478
   },
   {
     "id": 42598,
-    "name": "Specialist Military E Towers Happiness",
+    "name": "Dibblorix, Optima Lixa",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_016_dibblorix.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 29318
   },
   {
     "id": 106397,
-    "name": "Specialist Aqueduct R WaterSupply",
+    "name": "Ductuarius",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_037.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 42568
   },
   {
     "id": 106410,
-    "name": "Specialist Aqueduct C WaterConsumption",
-    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_010.png"
+    "name": "Bewässerin",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_010.png",
+    "target": 42602
   },
   {
     "id": 106412,
-    "name": "Specialist Aqueduct R WaterConsumption",
+    "name": "Fähiger Troghüter",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_015.png",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "target": 51905
   },
   {
     "id": 106414,
-    "name": "Specialist Aqueduct E WaterConsumption",
+    "name": "Gygaea von Megaria, eupalinische Reservistin",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_018.png",
-    "rarity": "Epic"
+    "rarity": "Epic",
+    "target": 50225
   },
   {
     "id": 51361,
-    "name": "Specialist Colosseum S2C Sandal",
+    "name": "Verlorene Sandale",
     "icon": "data/ui/fhd/base/icon_content/production_goods/icon_3d_sandals_goods.png",
     "rarity": "Quest"
   },
   {
     "id": 50900,
-    "name": "Specialist Economy Caera",
-    "rarity": "Quest"
+    "name": "",
+    "rarity": "Quest",
+    "target": 50571
   },
   {
     "id": 51012,
-    "name": "Specialist Economy Maria Bacca",
-    "rarity": "Quest"
+    "name": "",
+    "rarity": "Quest",
+    "target": 50569
   },
   {
     "id": 54336,
-    "name": "Specialist Noble Albion Job",
+    "name": "Elefantenbändiger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
     "rarity": "Rare"
   },
   {
     "id": 54337,
-    "name": "Specialist Noble Latium Job",
+    "name": "Elefantenbändiger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
     "rarity": "Rare"
   },
   {
     "id": 50977,
-    "name": "CUT Specialist Belief Julia Quest",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
     "rarity": "Quest"
   },
   {
     "id": 44701,
-    "name": "Specialist Corrupt Income",
+    "name": "Elefantenbändiger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
     "rarity": "Quest"
   },
   {
     "id": 44702,
-    "name": "Specialist Corrupt Health",
+    "name": "Elefantenbändiger",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
     "rarity": "Quest"
   },
   {
     "id": 68050,
-    "name": "Specialist Onboarding Production",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
     "rarity": "Uncommon"
   },
   {
     "id": 68051,
-    "name": "Specialist Onboarding Income",
+    "name": "Aquila Dulcis, Curator Aquarum",
     "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
     "rarity": "Rare"
   },
   {
     "id": 95752,
-    "name": "TestItem QC BonusAttributes",
+    "name": "",
     "icon": "data/ui/fhd/base/icon_content/generic/icon_2d_arrow_up.png",
     "rarity": "Unique"
   },
   {
     "id": 95753,
-    "name": "TestItem QC MalusAttributes",
+    "name": "",
     "icon": "data/ui/fhd/base/icon_content/generic/icon_2d_arrow_down.png",
     "rarity": "Unique"
   },
   {
     "id": 95764,
-    "name": "TestItem QC BoostFactories",
+    "name": "",
     "icon": "data/ui/fhd/base/icon_content/generic/icon_2d_productivity.png",
-    "rarity": "Unique"
+    "rarity": "Unique",
+    "target": 38370
   }
 ]
