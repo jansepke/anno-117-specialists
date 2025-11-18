@@ -1,0 +1,1584 @@
+[
+  {
+    "id": 71438,
+    "name": "Specialist Tutorial Finance",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_tutorial_002_gaius_julius.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 71441,
+    "name": "Specialist Tutorial Economy",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_tutorial_001_brutus_julius.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42057,
+    "name": "Specialist Campaign Elephant",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_campaign_elephant.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44431,
+    "name": "Specialist Campaign Elephant Handler",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_002_elephant_handler.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 94567,
+    "name": "Specialist Campaign Musician Aodhan",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_004_aodhan.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 125560,
+    "name": "Specialist Campaign TaxFraud",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_narrative_004_abbacus.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 95403,
+    "name": "Specialist Quest Valeria",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_035.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 96821,
+    "name": "Specialist Colosseum Quintus",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_87.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 96819,
+    "name": "Specialist Colosseum Volunteer",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_88.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 96817,
+    "name": "Specialist Colosseum Cook Apicius",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_69.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 88062,
+    "name": "Specialist WL SPQL W 009 Barley Farmer",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_001_barley_shaker.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 93989,
+    "name": "Specialist WL SPQL W 017 Voadas Female Bard",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_001_bard.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 90573,
+    "name": "Specialist WL SPQL 056 Nathanael",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_campaign_003_shipwreck_diver.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 109532,
+    "name": "Specialist HL SPQL W 007 Suitor",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_narrative_003_brother_of_heracles.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 82419,
+    "name": "Specialist HL SPQL 011 Cabin Cleanser",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_003_cabin_cleaner.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 82777,
+    "name": "Specialist HL SPQL 028 Mad Cook",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_narrative_002_mad_cook.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106846,
+    "name": "Specialist Wish Dog",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_specialist_dog_01.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 64944,
+    "name": "Specialist Balance C Money",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_008.png"
+  },
+  {
+    "id": 64949,
+    "name": "Specialist Balance C Belief",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_004.png"
+  },
+  {
+    "id": 64950,
+    "name": "Specialist Balance C Knowledge",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_003.png"
+  },
+  {
+    "id": 64951,
+    "name": "Specialist Balance C Prestige",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_001.png"
+  },
+  {
+    "id": 64952,
+    "name": "Specialist Balance C FireSafety",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_005.png"
+  },
+  {
+    "id": 64953,
+    "name": "Specialist Balance C Health",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_005.png"
+  },
+  {
+    "id": 64954,
+    "name": "Specialist Balance C Happiness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_003.png"
+  },
+  {
+    "id": 140338,
+    "name": "Specialist Balance R Money",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_90.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 140344,
+    "name": "Specialist Balance R Belief",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_036.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 140355,
+    "name": "Specialist Balance R Knowledge",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_047.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 140388,
+    "name": "Specialist Balance R Prestige",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_07.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 140403,
+    "name": "Specialist Balance R FireSafety",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_91.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 140405,
+    "name": "Specialist Balance R Health",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_037.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 140407,
+    "name": "Specialist Balance R Happiness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_56.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 64945,
+    "name": "Specialist Balance E Money",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_002.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 64961,
+    "name": "Specialist Balance E Belief",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_009.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 64962,
+    "name": "Specialist Balance E Knowledge",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_005.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 64963,
+    "name": "Specialist Balance E Prestige",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_001.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 64964,
+    "name": "Specialist Balance E FireSafety",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_004.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 64965,
+    "name": "Specialist Balance E Health",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_002.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 64966,
+    "name": "Specialist Balance E Happiness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_001.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51316,
+    "name": "Specialist Maintenance C Gatherers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_004.png"
+  },
+  {
+    "id": 51328,
+    "name": "Specialist Maintenance C Coopers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_028.png"
+  },
+  {
+    "id": 51330,
+    "name": "Specialist Maintenance C Extractors",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_008.png"
+  },
+  {
+    "id": 51334,
+    "name": "Specialist Maintenance C Smelters",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_007.png"
+  },
+  {
+    "id": 51338,
+    "name": "Specialist Maintenance C Dressers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_001.png"
+  },
+  {
+    "id": 51344,
+    "name": "Specialist Maintenance C Material Producers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_002.png"
+  },
+  {
+    "id": 51292,
+    "name": "Specialist Maintenance R Hunters &amp; Fisheries",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_002.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51324,
+    "name": "Specialist Maintenance R Pastures",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_001.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51336,
+    "name": "Specialist Maintenance R Cookhouses",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_013.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51346,
+    "name": "Specialist Maintenance R Arms Producers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_001.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51321,
+    "name": "Specialist Maintenance E Farms",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_033.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51326,
+    "name": "Specialist Maintenance E Mines &amp; Pits",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_009.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51332,
+    "name": "Specialist Maintenance E Workshops",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_007.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51340,
+    "name": "Specialist Maintenance E Plantations",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_002.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51342,
+    "name": "Specialist Maintenance E Artisans",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_006.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51551,
+    "name": "Specialist Area R Pigs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_other_nb_03.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51555,
+    "name": "Specialist Area R Leather",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_055.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51559,
+    "name": "Specialist Area E Gold",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_89.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51563,
+    "name": "Specialist Area R Amphorae",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_029.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51567,
+    "name": "Specialist Area R LimestoneBlocks",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_029.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51571,
+    "name": "Specialist Area R Silver",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_33.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51575,
+    "name": "Specialist Area E Sheep",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_018.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51579,
+    "name": "Specialist Area C ReedShoes",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_32.png"
+  },
+  {
+    "id": 51378,
+    "name": "Specialist Area R Lavender",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_010.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51382,
+    "name": "Specialist Area C Porridge",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_027.png"
+  },
+  {
+    "id": 51390,
+    "name": "Specialist Area E Togas",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_025.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51394,
+    "name": "Specialist Area E Marble",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_74.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51398,
+    "name": "Specialist Area C Eels",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_040.png"
+  },
+  {
+    "id": 51402,
+    "name": "Specialist Area R SilverOre",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_24.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51406,
+    "name": "Specialist Area R Sausages",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_032.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51410,
+    "name": "Specialist Area E Wigs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_010_ailbhe_giunnae.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51414,
+    "name": "Specialist Area R Aurochs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_26.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51418,
+    "name": "Specialist Area E GraniteBlocks",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_015.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51422,
+    "name": "Specialist Area R Bronze",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_058.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51426,
+    "name": "Specialist Area E RoastBeef",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_37.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51430,
+    "name": "Specialist Area E PeltHats",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_39.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51434,
+    "name": "Specialist Area E Granite",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_60.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51519,
+    "name": "Specialist Area R IronOre",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_036.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51523,
+    "name": "Specialist Area R Strings",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_030.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51527,
+    "name": "Specialist Area E OystersCaviar",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_018_patanjali.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51531,
+    "name": "Specialist Area R WaxTablets",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_035.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51535,
+    "name": "Specialist Area E FineGlass",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_021.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51539,
+    "name": "Specialist Area R TinOre",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_027.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51543,
+    "name": "Specialist Area R CopperOre",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_026.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51547,
+    "name": "Specialist Area E Lye",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_019.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51587,
+    "name": "Specialist Area E MarbleBlocks",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_046.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51591,
+    "name": "Specialist Area E Minerals",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_045.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51595,
+    "name": "Specialist Area E TyrianPurple",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_024.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51599,
+    "name": "Specialist Area R Glass",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_016.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51603,
+    "name": "Specialist Area R Pigments",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_021.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51607,
+    "name": "Specialist Area E Necklaces",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_037.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51611,
+    "name": "Specialist Area E Loungers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_02.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51615,
+    "name": "Specialist Area E Armor",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_63.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51619,
+    "name": "Specialist Area R Brooches",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_046.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51623,
+    "name": "Specialist Area E Mirrors",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_03.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51627,
+    "name": "Specialist Area R Torcs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_31.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51631,
+    "name": "Specialist Area E ClanShields",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_82.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51386,
+    "name": "Specialist Area C Hats",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_038.png"
+  },
+  {
+    "id": 51442,
+    "name": "Specialist Area R InstitutionRiot",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_057.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51446,
+    "name": "Specialist Area C Tunics",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_054.png"
+  },
+  {
+    "id": 51450,
+    "name": "Specialist Area R Weapons",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_041.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51454,
+    "name": "Specialist Area R Garum",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_049.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51458,
+    "name": "Specialist Area E Lyres",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_21.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51462,
+    "name": "Specialist Area E Mosaics",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_059.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51470,
+    "name": "Specialist Area E BirdTongues",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_034.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51474,
+    "name": "Specialist Area E Chariots",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_037.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51466,
+    "name": "Specialist Area R InstitutionIllness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_030.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51478,
+    "name": "Specialist Area E Horses",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_052.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51482,
+    "name": "Specialist Area E Wine",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_40.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51486,
+    "name": "Specialist Area R Fat",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_008.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51490,
+    "name": "Specialist Area R Soap",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_06.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51494,
+    "name": "Specialist Area R Sandals",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_029.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51498,
+    "name": "Specialist Area R OliveOil",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_016.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51502,
+    "name": "Specialist Area R Herbs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_027.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51506,
+    "name": "Specialist Area C Cockles",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_036.png"
+  },
+  {
+    "id": 51510,
+    "name": "Specialist Area R Cheese",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_035.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51514,
+    "name": "Specialist Area R Trousers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_38.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51362,
+    "name": "Specialist Area R InstitutionFire",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_83.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51366,
+    "name": "Specialist Area R Tiles",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_017.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51635,
+    "name": "Specialist Area R Bread",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_other_nb_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51639,
+    "name": "Specialist Area R Charcoal",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_34.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51370,
+    "name": "Specialist Area R Beer",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_011.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51374,
+    "name": "Specialist Area E Cloak",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_54.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 43677,
+    "name": "Specialist AreaPools E Fisheries",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_009_uiscarix.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44084,
+    "name": "Specialist AreaPools E Smelters",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_006_obairrix.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42047,
+    "name": "Specialist AreaPools E Dressers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_005.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42043,
+    "name": "Specialist AreaPools E Cookhouses",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_75.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51826,
+    "name": "Specialist NeedReward C Sardines",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_004.png"
+  },
+  {
+    "id": 51829,
+    "name": "Specialist NeedReward C Eels",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_48.png"
+  },
+  {
+    "id": 51831,
+    "name": "Specialist NeedReward C Cockles",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_019.png"
+  },
+  {
+    "id": 51851,
+    "name": "Specialist NeedReward C Hats",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_053.png"
+  },
+  {
+    "id": 51853,
+    "name": "Specialist NeedReward C Tunics",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_029.png"
+  },
+  {
+    "id": 51855,
+    "name": "Specialist NeedReward C ReedShoes",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_05.png"
+  },
+  {
+    "id": 51833,
+    "name": "Specialist NeedReward R Garum",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_031.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51835,
+    "name": "Specialist NeedReward R Bread",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_030.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51837,
+    "name": "Specialist NeedReward R Sausages",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_42.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51839,
+    "name": "Specialist NeedReward R Beer",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_043.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51857,
+    "name": "Specialist NeedReward R Sandals",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_020.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51859,
+    "name": "Specialist NeedReward R Soap",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_039.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51861,
+    "name": "Specialist NeedReward R Trousers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_040.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51863,
+    "name": "Specialist NeedReward R Torcs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_43.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51865,
+    "name": "Specialist NeedReward R Brooches",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_039.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51877,
+    "name": "Specialist NeedReward R Amphorae",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_025.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51879,
+    "name": "Specialist NeedReward R OliveOil",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_other_nb_02.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51841,
+    "name": "Specialist NeedReward E Cheese",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_019_knekkfjall.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51843,
+    "name": "Specialist NeedReward E Wine",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_031.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51845,
+    "name": "Specialist NeedReward E Beef",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_051.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51847,
+    "name": "Specialist NeedReward E Tongues",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_028.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51849,
+    "name": "Specialist NeedReward E Oysters",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_034.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51867,
+    "name": "Specialist NeedReward E Togas",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_66.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51869,
+    "name": "Specialist NeedReward E Wigs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_040.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51871,
+    "name": "Specialist NeedReward E PeltHats",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_06.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51873,
+    "name": "Specialist NeedReward E Cloaks",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_67.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51875,
+    "name": "Specialist NeedReward E Necklaces",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_026.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51881,
+    "name": "Specialist NeedReward E WritingTablets",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_033.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51883,
+    "name": "Specialist NeedReward E FineGlass",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_037.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51885,
+    "name": "Specialist NeedReward E Mirrors",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_014.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51887,
+    "name": "Specialist NeedReward E Loungers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_035.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51889,
+    "name": "Specialist NeedReward E Lyres",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_005.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51891,
+    "name": "Specialist NeedReward E Chariots",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_022.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51893,
+    "name": "Specialist NeedReward E ClanShields",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_047.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42056,
+    "name": "Specialist NeedReward E Porridge",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_005_circaeus_of_aeaea.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42055,
+    "name": "Specialist PublicReward E Tavern",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_019.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42045,
+    "name": "Specialist PublicReward E TownHall",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_014.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42044,
+    "name": "Specialist PublicReward E SportingGrounds",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_026.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51357,
+    "name": "Specialist PublicReward E AqueductCistern",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_008.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44075,
+    "name": "Specialist Productivity C SardineChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_016.png"
+  },
+  {
+    "id": 44076,
+    "name": "Specialist Productivity C PorridgeChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_30.png"
+  },
+  {
+    "id": 44077,
+    "name": "Specialist Productivity C EelChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_03.png"
+  },
+  {
+    "id": 44078,
+    "name": "Specialist Productivity C SailsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_019.png"
+  },
+  {
+    "id": 44079,
+    "name": "Specialist Productivity C RopesChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_048.png"
+  },
+  {
+    "id": 44080,
+    "name": "Specialist Productivity C BreadChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_47.png"
+  },
+  {
+    "id": 44083,
+    "name": "Specialist Productivity C TunicsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_008.png"
+  },
+  {
+    "id": 44085,
+    "name": "Specialist Productivity C GarumChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_025.png"
+  },
+  {
+    "id": 44086,
+    "name": "Specialist Productivity C SandalsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_024.png"
+  },
+  {
+    "id": 44115,
+    "name": "Specialist Productivity C WritingTabletsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_017.png"
+  },
+  {
+    "id": 44117,
+    "name": "Specialist Productivity C TorcsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_23.png"
+  },
+  {
+    "id": 44139,
+    "name": "Specialist Productivity C AmphoraeChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_014.png"
+  },
+  {
+    "id": 44140,
+    "name": "Specialist Productivity C ReedShoesChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_012.png"
+  },
+  {
+    "id": 44141,
+    "name": "Specialist Productivity C OliveOilChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_021.png"
+  },
+  {
+    "id": 44142,
+    "name": "Specialist Productivity C SoapChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_003.png"
+  },
+  {
+    "id": 44144,
+    "name": "Specialist Productivity C HatsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_018.png"
+  },
+  {
+    "id": 44145,
+    "name": "Specialist Productivity C CocklesChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_012.png"
+  },
+  {
+    "id": 44146,
+    "name": "Specialist Productivity C BeerChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_012.png"
+  },
+  {
+    "id": 44081,
+    "name": "Specialist Productivity R BeefChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_039.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44082,
+    "name": "Specialist Productivity R CheeseChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_045.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44087,
+    "name": "Specialist Productivity R TrousersChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_038.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44088,
+    "name": "Specialist Productivity R ChariotsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_019.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44112,
+    "name": "Specialist Productivity R WineChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_030.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44113,
+    "name": "Specialist Productivity R BroochesChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_036.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44118,
+    "name": "Specialist Productivity R TogasChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_046.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44119,
+    "name": "Specialist Productivity R WigsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_022.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44120,
+    "name": "Specialist Productivity R FineGlassChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_010.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44121,
+    "name": "Specialist Productivity R ClanShieldsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_014.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44143,
+    "name": "Specialist Productivity R OystersChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_013.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44148,
+    "name": "Specialist Productivity R PeltHatsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_007.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 50665,
+    "name": "Specialist Productivity R CloakChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_015.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 50289,
+    "name": "Specialist Productivity R WeaponsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_009.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 50291,
+    "name": "Specialist Productivity R ArmorChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_014.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 44089,
+    "name": "Specialist Productivity E NecklacesChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_007_lapidarius_aureate.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44114,
+    "name": "Specialist Productivity E LyresChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_70.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44147,
+    "name": "Specialist Productivity E SausagesChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_009.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44116,
+    "name": "Specialist Productivity E MirrorsChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_017_marix.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44122,
+    "name": "Specialist Productivity E TonguesChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_009.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 44149,
+    "name": "Specialist Productivity E LoungersChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_021.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 50287,
+    "name": "Specialist Productivity E HorseChain",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_024.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 54009,
+    "name": "Specialist Incident C Fire",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_62.png"
+  },
+  {
+    "id": 54015,
+    "name": "Specialist Incident C Illness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_023.png"
+  },
+  {
+    "id": 54021,
+    "name": "Specialist Incident C Riot",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_009.png"
+  },
+  {
+    "id": 54011,
+    "name": "Specialist Incident R Fire",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_011.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54017,
+    "name": "Specialist Incident R Illness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_016.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54023,
+    "name": "Specialist Incident R Riot",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_031.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 42052,
+    "name": "Specialist Incident E Fire",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_02.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 80494,
+    "name": "Specialist Incident E Illness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_003.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42051,
+    "name": "Specialist Incident E Riot",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_006.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 54048,
+    "name": "Specialist Farming R Herbs",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54050,
+    "name": "Specialist Farming R Silver",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54052,
+    "name": "Specialist Farming R Sandarac",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54054,
+    "name": "Specialist Farming R Minerals",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54056,
+    "name": "Specialist Farming R Lavender",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54058,
+    "name": "Specialist Farming R DyePlants",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54060,
+    "name": "Specialist Farming R Barley",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 92874,
+    "name": "Specialist Residence E Workforce R01",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_047.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 92876,
+    "name": "Specialist Residence R Workforce R02",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_033.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 92878,
+    "name": "Specialist Residence R Workforce R03",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_023.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 92880,
+    "name": "Specialist Residence E Workforce R04",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_roman_nb_01.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 92882,
+    "name": "Specialist Residence R Workforce RC02",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_20.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 92884,
+    "name": "Specialist Residence E Workforce RC03",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_032.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 92886,
+    "name": "Specialist Residence E Workforce C01",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_27.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 92888,
+    "name": "Specialist Residence R Workforce C02",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_028.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 92890,
+    "name": "Specialist Residence E Workforce C03",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_038.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106731,
+    "name": "Specialist Recruitment C All",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_80.png"
+  },
+  {
+    "id": 106736,
+    "name": "Specialist Recruitment R Barracks",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_52.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106738,
+    "name": "Specialist Recruitment R Siege",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_77.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106740,
+    "name": "Specialist Recruitment R Stables",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_023.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106742,
+    "name": "Specialist Recruitment E All",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_031.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106631,
+    "name": "Specialist Workforce C Roman Farms",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_028.png"
+  },
+  {
+    "id": 106634,
+    "name": "Specialist Workforce C Celtic Farms",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_29.png"
+  },
+  {
+    "id": 106636,
+    "name": "Specialist Workforce C Roman Coast",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_044.png"
+  },
+  {
+    "id": 106638,
+    "name": "Specialist Workforce C Celtic Coast",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/nonbinary/icon_3d_celtic_nb_04.png"
+  },
+  {
+    "id": 106644,
+    "name": "Specialist Workforce R Roman Institutions",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_032.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106646,
+    "name": "Specialist Workforce R Celtic Institutions",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_46.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106648,
+    "name": "Specialist Workforce R Roman Warehouses",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_73.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106650,
+    "name": "Specialist Workforce R Celtic Warehouses",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_041.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106640,
+    "name": "Specialist Workforce E Roman Pastures",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_79.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106642,
+    "name": "Specialist Workforce E Celtic Pastures",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_49.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106652,
+    "name": "Specialist Workforce E Roman Towers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_040.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106654,
+    "name": "Specialist Workforce E Celtic Towers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_45.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106539,
+    "name": "Specialist Military C Towers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_038.png"
+  },
+  {
+    "id": 106549,
+    "name": "Specialist Military C Warehouses",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_male/icon_3d_celtic_male_51.png"
+  },
+  {
+    "id": 106537,
+    "name": "Specialist Military R Towers Offense",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/celtic_female/icon_3d_celtic_female_042.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106541,
+    "name": "Specialist Military R Towers Defense",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_035.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106547,
+    "name": "Specialist Military R Gates Offense",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_039.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106545,
+    "name": "Specialist Military R Gates Defense",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_84.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106551,
+    "name": "Specialist Military R RepairCrane",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_male/icon_3d_other_male_032.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 42592,
+    "name": "Specialist Military E Towers",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_032.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51278,
+    "name": "Specialist Military E Gates",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_029.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 42598,
+    "name": "Specialist Military E Towers Happiness",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_unique_016_dibblorix.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 106397,
+    "name": "Specialist Aqueduct R WaterSupply",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_037.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106410,
+    "name": "Specialist Aqueduct C WaterConsumption",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_female/icon_3d_roman_female_010.png"
+  },
+  {
+    "id": 106412,
+    "name": "Specialist Aqueduct R WaterConsumption",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/roman_male/icon_3d_roman_male_015.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 106414,
+    "name": "Specialist Aqueduct E WaterConsumption",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/other_female/icon_3d_other_female_018.png",
+    "rarity": "Epic"
+  },
+  {
+    "id": 51361,
+    "name": "Specialist Colosseum S2C Sandal",
+    "icon": "data/ui/fhd/base/icon_content/production_goods/icon_3d_sandals_goods.png",
+    "rarity": "Quest"
+  },
+  {
+    "id": 50900,
+    "name": "Specialist Economy Caera",
+    "rarity": "Quest"
+  },
+  {
+    "id": 51012,
+    "name": "Specialist Economy Maria Bacca",
+    "rarity": "Quest"
+  },
+  {
+    "id": 54336,
+    "name": "Specialist Noble Albion Job",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 54337,
+    "name": "Specialist Noble Latium Job",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 50977,
+    "name": "CUT Specialist Belief Julia Quest",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Quest"
+  },
+  {
+    "id": 44701,
+    "name": "Specialist Corrupt Income",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Quest"
+  },
+  {
+    "id": 44702,
+    "name": "Specialist Corrupt Health",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Quest"
+  },
+  {
+    "id": 68050,
+    "name": "Specialist Onboarding Production",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": 68051,
+    "name": "Specialist Onboarding Income",
+    "icon": "data/ui/fhd/base/icon_content/items_specialist/unique/icon_3d_specialist_hooded_01.png",
+    "rarity": "Rare"
+  },
+  {
+    "id": 95752,
+    "name": "TestItem QC BonusAttributes",
+    "icon": "data/ui/fhd/base/icon_content/generic/icon_2d_arrow_up.png",
+    "rarity": "Unique"
+  },
+  {
+    "id": 95753,
+    "name": "TestItem QC MalusAttributes",
+    "icon": "data/ui/fhd/base/icon_content/generic/icon_2d_arrow_down.png",
+    "rarity": "Unique"
+  },
+  {
+    "id": 95764,
+    "name": "TestItem QC BoostFactories",
+    "icon": "data/ui/fhd/base/icon_content/generic/icon_2d_productivity.png",
+    "rarity": "Unique"
+  }
+]
