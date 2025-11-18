@@ -1,6 +1,6 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { XMLParser } from "fast-xml-parser";
 import { promises as fs } from "fs";
-import { languages } from "../anno-config.ts";
 
 const assetPath = "AssetList.Groups.Group";
 const assetParser = new XMLParser({
@@ -13,31 +13,10 @@ const assetParser = new XMLParser({
   },
 });
 
-const languageParser = new XMLParser();
-
 main();
 
 async function main() {
   await loadAssets();
-  // await Promise.all(languages.map((l) => loadTranslations(l.fileName)));
-}
-
-async function loadTranslations(language: string) {
-  console.log(`Loading ${language} Translations...`);
-
-  const fileName = `texts_${language}`;
-
-  const json = await parseXMLDataFile(fileName, languageParser);
-  const translations: Record<string, string> = {};
-  for (const item of json.TextExport.Texts.Text) {
-    translations[item.GUID] = item.Text.replace
-      ? item.Text.replace(/\[.*\]/g, "")
-          .replace(/\s\s/g, " ")
-          .replace(": .", "")
-      : item.Text;
-  }
-
-  await saveToCache("texts", fileName, translations);
 }
 
 const assetsByType: Record<string, any> = {};
@@ -54,17 +33,32 @@ async function loadAssets() {
   }
 }
 
-function processGroups(groups: any) {
-  if (!Array.isArray(groups)) {
-    groups = [groups];
+function toArray<T>(value: T | T[]): T[] {
+  if (!Array.isArray(value)) {
+    return [value];
   }
+  return value;
+}
 
-  for (const group of Array.from<any>(groups)) {
-    if (group.Assets) {
+type Group = {
+  Assets: {
+    Asset: unknown | unknown[];
+  };
+} & {
+  Groups: {
+    Group: Group | Group[];
+  };
+};
+
+function processGroups(groups: Group | Group[]) {
+  const groupsArray = toArray(groups);
+
+  for (const group of Array.from(groupsArray)) {
+    if ("Assets" in group) {
       processAssets(group.Assets.Asset);
     }
 
-    if (group.Groups) {
+    if ("Groups" in group) {
       processGroups(group.Groups.Group);
     }
   }
@@ -102,7 +96,7 @@ async function parseXMLDataFile(file: string, parser: XMLParser) {
   }
 }
 
-async function saveToCache(folder: string, file: string, data: any) {
+async function saveToCache(folder: string, file: string, data: unknown) {
   const fileName = `./import-data/json/${folder}/${file.replace("/", "-")}.json`;
 
   await fs.writeFile(fileName, JSON.stringify(data, null, 2));
