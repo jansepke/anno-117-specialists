@@ -6,10 +6,7 @@ export const languages = [
 export type Language = (typeof languages)[0];
 
 export const rarities = [
-  { key: "common", labelId: 118002, color: "#FFFFFE" },
-  { key: "uncommon", labelId: 118003, color: "#659E2C" },
   { key: "rare", labelId: 118004, color: "#3E5495" },
   { key: "epic", labelId: 118005, color: "#A563A6" },
-  { key: "legendary", labelId: 118006, color: "#C76936" },
-  { key: "narrative", labelId: 19850, color: "#4A385F" },
+  { key: "quest", labelId: 118006, color: "#C76936" },
 ];

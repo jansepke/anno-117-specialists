@@ -11,7 +11,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { initReactI18next } from "react-i18next";
 import { App } from "./components/App.tsx";
-import theme from "./theme.ts";
+import { theme } from "./theme.ts";
 
 i18next
   .use(LanguageDetector)

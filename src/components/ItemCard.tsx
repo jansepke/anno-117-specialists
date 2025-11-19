@@ -30,9 +30,9 @@ interface ItemCardProps extends React.PropsWithChildren {
   titleSuffix?: React.ReactNode;
 }
 
-const ItemCard: React.FC<ItemCardProps> = ({ item, titleSuffix, children }) => (
+export const ItemCard: React.FC<ItemCardProps> = ({ item, titleSuffix, children }) => (
   <Grid size={{ xs: 12, sm: 6, md: 4, lg: 3, xl: 2 }} sx={{ display: "flex" }}>
-    <CustomCard elevation={3} sx={{ borderColor: raritiesByKey[item.rarity] }}>
+    <CustomCard elevation={3} sx={{ borderColor: raritiesByKey[item.rarity?.toLowerCase()] }}>
       <CardHeader
         avatar={<img src={item.icon} width={35} height={35} />}
         title={
@@ -41,18 +41,10 @@ const ItemCard: React.FC<ItemCardProps> = ({ item, titleSuffix, children }) => (
             {titleSuffix || null}
           </>
         }
-        slotProps={{
-          title: { variant: "body1" },
-        }}
+        slotProps={{ title: { variant: "body1" } }}
         subheader={
           <>
-            <Box
-              component="span"
-              sx={{
-                color: (theme) =>
-                  item.rarity === "common" ? theme.palette.text.secondary : raritiesByKey[item.rarity],
-              }}
-            >
+            <Box component="span" sx={{ color: raritiesByKey[item.rarity?.toLowerCase()] }}>
               {item.rarity}&nbsp;
             </Box>
             (ID: {item.id})
@@ -63,5 +55,3 @@ const ItemCard: React.FC<ItemCardProps> = ({ item, titleSuffix, children }) => (
     </CustomCard>
   </Grid>
 );
-
-export default ItemCard;

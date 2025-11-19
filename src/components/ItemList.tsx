@@ -3,14 +3,14 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 import type { AnnoItem } from "../types";
-import ItemCard from "./ItemCard";
-import VirtualizedList from "./shared/VirtualizedList";
+import { ItemCard } from "./ItemCard";
+import { VirtualizedList } from "./shared/VirtualizedList";
 
 interface ItemListProps {
   items: AnnoItem[];
 }
 
-const ItemList: React.FC<ItemListProps> = ({ items }) => {
+export const ItemList: React.FC<ItemListProps> = ({ items }) => {
   return (
     <Container maxWidth="xl">
       <br />
@@ -35,5 +35,3 @@ const ItemList: React.FC<ItemListProps> = ({ items }) => {
     </Container>
   );
 };
-
-export default ItemList;

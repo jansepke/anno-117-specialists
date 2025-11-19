@@ -3,7 +3,7 @@ import React, { useCallback, useEffect, useRef, useState } from "react";
 const pageSize = 24;
 const rootMargin = "500px";
 
-function VirtualizedList<T>({
+export function VirtualizedList<T>({
   items,
   renderItem,
   loadingIndicator,
@@ -46,5 +46,3 @@ function VirtualizedList<T>({
     </>
   );
 }
-
-export default VirtualizedList;

@@ -14,7 +14,7 @@ import React, { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { languages } from "../anno-config";
 
-const TopBar: React.FC = () => {
+export const TopBar: React.FC = () => {
   const { i18n } = useTranslation();
 
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
@@ -62,10 +62,10 @@ const TopBar: React.FC = () => {
           </Menu>
         </div>
         <Box display={{ xs: "none", sm: "block" }}>
-          <Chip label="Anno Version 18.2" color="primary" />
+          <Chip label="Anno Version 1.0" color="primary" />
           <IconButton
             color="inherit"
-            href="https://github.com/jansepke/anno-toolkit"
+            href="https://github.com/jansepke/anno-117-specialists"
             target="_blank"
             rel="noopener"
             size="large"
@@ -77,5 +77,3 @@ const TopBar: React.FC = () => {
     </AppBar>
   );
 };
-
-export default TopBar;
