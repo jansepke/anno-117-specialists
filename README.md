@@ -28,7 +28,6 @@ npm run build # create production build
 - captain items
 - header + footer
 - info texts
-- goatcounter
 - husky
 - link between 1800 / 117 apps
 
