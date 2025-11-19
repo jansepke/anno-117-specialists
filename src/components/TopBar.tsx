@@ -12,7 +12,7 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import React, { useState } from "react";
 import { useTranslation } from "react-i18next";
-import { languages } from "./anno-config";
+import { languages } from "../anno-config";
 
 const TopBar: React.FC = () => {
   const { i18n } = useTranslation();

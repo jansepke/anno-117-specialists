@@ -10,7 +10,7 @@ import LanguageDetector from "i18next-browser-languagedetector";
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { initReactI18next } from "react-i18next";
-import { App } from "./App.tsx";
+import { App } from "./components/App.tsx";
 import theme from "./theme.ts";
 
 i18next
