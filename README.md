@@ -1,73 +1,37 @@
-# React + TypeScript + Vite
+# Anno 117 items
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+View and filter all Items of Anno 117. Access it here: [anno-117.jansepke.de](https://anno-117.jansepke.de/)
 
-Currently, two official plugins are available:
+## Contributing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm install   # install dependencies
+npm run dev   # run development server
+npm run build # create production build
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Update game data
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+1. download and start [RDA Explorer](https://github.com/lysannschlegel/RDAExplorer)
+1. open lastest `.rda` file (e.g. `C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Anno 117\maindata\data31.rda`)
+1. extract `data/config/export/main/asset/assets.xml`, `data/config/gui/texts_english.xml` and `data/config/gui/texts_german.xml`
+1. copy files to the `./import-data/xml` folder
+1. run `npm run xml-to-json`
+1. run `npm run fill-db`
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## TODO
+
+- filter
+- favourites
+- captain items
+- header + footer
+- info texts
+- goatcounter
+- husky
+- link between 1800 / 117 apps
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
