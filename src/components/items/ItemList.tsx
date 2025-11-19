@@ -2,9 +2,9 @@ import CircularProgress from "@mui/material/CircularProgress";
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-import type { AnnoItem } from "../types";
+import type { AnnoItem } from "../../types";
+import { VirtualizedList } from "../shared/VirtualizedList";
 import { ItemCard } from "./ItemCard";
-import { VirtualizedList } from "./shared/VirtualizedList";
 
 interface ItemListProps {
   items: AnnoItem[];
