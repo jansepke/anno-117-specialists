@@ -1,3 +1,9 @@
+import "@fontsource/roboto/300.css";
+import "@fontsource/roboto/400.css";
+import "@fontsource/roboto/500.css";
+import "@fontsource/roboto/700.css";
+
+import CssBaseline from "@mui/material/CssBaseline";
 import i18next from "i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 import { StrictMode } from "react";
@@ -17,6 +23,7 @@ i18next
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
+    <CssBaseline />
     <App />
   </StrictMode>,
 );
