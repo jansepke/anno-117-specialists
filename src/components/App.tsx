@@ -4,6 +4,8 @@ import assetpoolsDE from "../db/de/assetpoolnamed.json" with { type: "json" };
 import itemsDE from "../db/de/item.json" with { type: "json" };
 import assetpoolsEN from "../db/en/assetpoolnamed.json" with { type: "json" };
 import itemsEN from "../db/en/item.json" with { type: "json" };
+import type { AnnoItem } from "../types";
+import ItemList from "./ItemList";
 import TopBar from "./TopBar";
 
 export const App: React.FC = () => {
@@ -15,12 +17,7 @@ export const App: React.FC = () => {
   return (
     <>
       <TopBar />
-      {items.map((item) => (
-        <div key={item.id}>
-          {item.name} ({item.rarity}): {item.effect.map((e) => `${e.name}: ${e.value}`).join(", ")} on{" "}
-          {assetpools.find((pool) => pool.id === item.target)?.name}
-        </div>
-      ))}
+      <ItemList items={items as AnnoItem[]} />
     </>
   );
 };
