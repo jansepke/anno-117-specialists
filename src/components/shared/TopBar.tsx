@@ -33,7 +33,7 @@ export const TopBar: React.FC = () => {
     <AppBar position="sticky">
       <Toolbar>
         <Link href="/">
-          <IconButton color="inherit" size="large">
+          <IconButton size="large">
             <HomeIcon />
           </IconButton>
         </Link>

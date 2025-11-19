@@ -26,7 +26,7 @@ npm run build # create production build
 - filter
 - favourites
 - captain items
-- header + footer
+- footer
 - info texts
 - husky
 - link between 1800 / 117 apps
