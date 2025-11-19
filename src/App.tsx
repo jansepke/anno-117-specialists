@@ -4,6 +4,7 @@ import assetpoolsDE from "./db/de/assetpoolnamed.json" with { type: "json" };
 import itemsDE from "./db/de/item.json" with { type: "json" };
 import assetpoolsEN from "./db/en/assetpoolnamed.json" with { type: "json" };
 import itemsEN from "./db/en/item.json" with { type: "json" };
+import TopBar from "./TopBar";
 
 export const App: React.FC = () => {
   const { i18n } = useTranslation();
@@ -13,8 +14,7 @@ export const App: React.FC = () => {
 
   return (
     <>
-      <button onClick={() => i18n.changeLanguage("en")}>en</button>
-      <button onClick={() => i18n.changeLanguage("de")}>de</button>
+      <TopBar />
       {items.map((item) => (
         <div key={item.id}>
           {item.name} ({item.rarity}): {item.effect.map((e) => `${e.name}: ${e.value}`).join(", ")} on{" "}

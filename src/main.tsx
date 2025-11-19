@@ -4,12 +4,14 @@ import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
 import CssBaseline from "@mui/material/CssBaseline";
+import { ThemeProvider } from "@mui/material/styles";
 import i18next from "i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { initReactI18next } from "react-i18next";
 import { App } from "./App.tsx";
+import theme from "./theme.ts";
 
 i18next
   .use(LanguageDetector)
@@ -23,7 +25,9 @@ i18next
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <CssBaseline />
-    <App />
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <App />
+    </ThemeProvider>
   </StrictMode>,
 );
